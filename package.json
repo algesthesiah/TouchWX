@@ -1,0 +1,42 @@
+{
+  "_args": [
+    [
+      "touchui-wx-components@1.0.12",
+      "c:\\Users\\liulu\\Desktop\\work\\b"
+    ]
+  ],
+  "_from": "touchui-wx-components@1.0.12",
+  "_id": "touchui-wx-components@1.0.12",
+  "_inBundle": false,
+  "_integrity": "sha1-ME9odbFBwYNyWKawVS5f9UU8fkM=",
+  "_location": "/touchui-wx-components",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "touchui-wx-components@1.0.12",
+    "name": "touchui-wx-components",
+    "escapedName": "touchui-wx-components",
+    "rawSpec": "1.0.12",
+    "saveSpec": null,
+    "fetchSpec": "1.0.12"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/touchui-wx-components/download/touchui-wx-components-1.0.12.tgz",
+  "_spec": "1.0.12",
+  "_where": "c:\\Users\\liulu\\Desktop\\work\\b",
+  "author": {
+    "name": "UI Leader"
+  },
+  "dependencies": {
+    "lodash.merge": "^4.6.1",
+    "lodash.trim": "^4.5.1",
+    "moment": "^2.21.0"
+  },
+  "description": "TouchUI 小程序组件库",
+  "license": "MIT",
+  "name": "touchui-wx-components",
+  "version": "1.0.12"
+}
